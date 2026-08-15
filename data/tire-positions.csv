@@ -1,0 +1,27 @@
+#,UNIT,AXLE,POSITION,SIDE,FITMENT
+1,Horse,Front (steer),Left,Left,Single
+2,Horse,Front (steer),Right,Right,Single
+3,Horse,Rear axle 1,Left outer,Left,Dual
+4,Horse,Rear axle 1,Left inner,Left,Dual
+5,Horse,Rear axle 1,Right inner,Right,Dual
+6,Horse,Rear axle 1,Right outer,Right,Dual
+7,Horse,Rear axle 2,Left outer,Left,Dual
+8,Horse,Rear axle 2,Left inner,Left,Dual
+9,Horse,Rear axle 2,Right inner,Right,Dual
+10,Horse,Rear axle 2,Right outer,Right,Dual
+11,Trailer 1,Axle 1,Left outer,Left,Dual
+12,Trailer 1,Axle 1,Left inner,Left,Dual
+13,Trailer 1,Axle 1,Right inner,Right,Dual
+14,Trailer 1,Axle 1,Right outer,Right,Dual
+15,Trailer 1,Axle 2,Left outer,Left,Dual
+16,Trailer 1,Axle 2,Left inner,Left,Dual
+17,Trailer 1,Axle 2,Right inner,Right,Dual
+18,Trailer 1,Axle 2,Right outer,Right,Dual
+19,Trailer 2,Axle 1,Left outer,Left,Dual
+20,Trailer 2,Axle 1,Left inner,Left,Dual
+21,Trailer 2,Axle 1,Right inner,Right,Dual
+22,Trailer 2,Axle 1,Right outer,Right,Dual
+23,Trailer 2,Axle 2,Left outer,Left,Dual
+24,Trailer 2,Axle 2,Left inner,Left,Dual
+25,Trailer 2,Axle 2,Right inner,Right,Dual
+26,Trailer 2,Axle 2,Right outer,Right,Dual

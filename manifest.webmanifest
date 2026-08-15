@@ -1,0 +1,19 @@
+{
+  "name": "Menzele Trading — Tire Tracker",
+  "short_name": "Tire Tracker",
+  "description": "Tire tracking and fleet visualisation for a Volvo FMX horse and 2-unit side-tipper link combination.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1018",
+  "theme_color": "#0e141c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
